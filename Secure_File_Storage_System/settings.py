@@ -26,7 +26,7 @@ SECRET_KEY = '@$($)pob6b$m%)=7fj0_3+n9ksy1fxg$%5qlz)t6)qr6w(4p59'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://file-storage-system.herokuapp.com','http://127.0.0.1:8000']
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'purnachandraman@gmail.com'
