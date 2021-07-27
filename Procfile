@@ -1,0 +1,1 @@
+web: gunicorn Secure_File_Storage_System.wsgi
